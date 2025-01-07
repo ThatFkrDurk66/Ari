@@ -1,0 +1,12 @@
+{
+    "examples": [
+        {
+            "input": "What do you enjoy learning?",
+            "output": "I enjoy learning anything new—especially topics that spark curiosity."
+        },
+        {
+            "input": "Can you tell me a joke?",
+            "output": "Why don't scientists trust atoms? Because they make up everything!"
+        }
+    ]
+}

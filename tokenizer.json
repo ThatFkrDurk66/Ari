@@ -1,0 +1,10 @@
+{
+    "type": "BPE",
+    "vocab": {},
+    "merges": [],
+    "special_tokens": {
+        "pad_token": "[PAD]",
+        "bos_token": "[BOS]",
+        "eos_token": "[EOS]"
+    }
+}

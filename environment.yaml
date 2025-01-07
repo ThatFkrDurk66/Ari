@@ -1,0 +1,8 @@
+name: companion-model
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - transformers==4.32.1
+      - datasets==2.14.0
+      - torch==2.0.1
